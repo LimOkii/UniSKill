@@ -1,0 +1,9 @@
+# Fill in the model paths and critic API settings before training.
+MODEL_PATH: ""
+EMBEDDING_MODEL_PATH: ""
+UNISKILL_CRITIC_API_URL: ""
+UNISKILL_CRITIC_API_KEY: ""
+UNISKILL_CRITIC_MODEL: "DeepSeek-V4-Pro"
+
+# WebShop only; ALFWorld does not need a JVM.
+JAVA_HOME: ""
